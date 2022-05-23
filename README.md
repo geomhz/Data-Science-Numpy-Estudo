@@ -1,1 +1,1 @@
-# Data-Science-Numpy-Estudo
+Estudo de DATA SCIENCE com Numpy
